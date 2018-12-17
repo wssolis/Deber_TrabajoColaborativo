@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author LAB4-PC7
+ * @author 
  */
 public class Punto {
     private int x;
